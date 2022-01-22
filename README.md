@@ -21,6 +21,7 @@ sentiments of the public, after the announcement of a relevant policy.
 What is the general public consensus towards the pandemic and related news around the world.
 
 **Data Sources**  
+
 • Twitter will be the data source - Streaming data
 • Text messages directly from Twitter’s feed with hashtags such as covid, coronavirus etc
 • Covid-19 Tweets Dataset to pretrain a classifier
