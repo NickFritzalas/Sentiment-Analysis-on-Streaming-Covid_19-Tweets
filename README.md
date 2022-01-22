@@ -2,7 +2,7 @@
 Semester project for my MSc in Data Science, Big Data course
 
 
-Motivation
+**Motivation**
 
 Covid-19 has risen various reactions and arguments regarding several aspects of the pandemic
 (e.g. vaccinations, the validity of the virus). Nowadays, social media platforms are a basic way of
