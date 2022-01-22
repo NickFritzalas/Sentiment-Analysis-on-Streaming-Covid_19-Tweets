@@ -5,6 +5,7 @@
 <br>
 
 **Motivation**  
+
 Covid-19 has risen various reactions and arguments regarding several aspects of the pandemic
 (e.g. vaccinations, the validity of the virus). Nowadays, social media platforms are a basic way of
 expressing opinions and sentiments towards a subject and especially under the pandemic where
@@ -18,6 +19,7 @@ sentiments of the public, after the announcement of a relevant policy.
 <br>
 
 **Project Objectives (Hypothesis)**  
+
 What is the general public consensus towards the pandemic and related news around the world.
 
 **Data Sources**  
