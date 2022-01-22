@@ -21,31 +21,30 @@ sentiments of the public, after the announcement of a relevant policy.
 What is the general public consensus towards the pandemic and related news around the world.
 
 **Data Sources**  
-
-• Twitter will be the data source - Streaming data
-• Text messages directly from Twitter’s feed with hashtags such as covid, coronavirus etc
-• Covid-19 Tweets Dataset to pretrain a classifier
+  • Twitter will be the data source - Streaming data
+  • Text messages directly from Twitter’s feed with hashtags such as covid, coronavirus etc
+  • Covid-19 Tweets Dataset to pretrain a classifier
 
 **Big Data Dimensions**  
-• Volume – Thousands of tweets per minute
-• Velocity – Increased flow depending on the news
-• Veracity – Depending on the reliability of tweets’ source
-• Value – Critical information from the data can greatly help in various ways
+  • Volume – Thousands of tweets per minute
+  • Velocity – Increased flow depending on the news
+  • Veracity – Depending on the reliability of tweets’ source
+  • Value – Critical information from the data can greatly help in various ways
 
 **Solution Overview**  
-• Sentiment analysis via Machine Learning and NLP.
-• Collecting tweets from the Twitter API in a streaming manner, storing and processing them
-with SPARK
-• An ML model will be trained on a labeled dataset after experimentation for creating a high
-performing algorithm
-• The pretrained model will be deployed in combination with SPARK, on real time data
+  • Sentiment analysis via Machine Learning and NLP.
+  • Collecting tweets from the Twitter API in a streaming manner, storing and processing them
+  with SPARK
+  • An ML model will be trained on a labeled dataset after experimentation for creating a high
+  performing algorithm
+  • The pretrained model will be deployed in combination with SPARK, on real time data
 
 **Tools-Libraries**  
-• Twitter API
-• Spark
-• Sklearn
-• Keras – Tensorflow
-• Nltk, pandas, numpy etc.
+  • Twitter API
+  • Spark
+  • Sklearn
+  • Keras – Tensorflow
+  • Nltk, pandas, numpy etc.
 
 <br>
 
