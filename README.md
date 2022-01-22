@@ -2,6 +2,7 @@
 
 **Semester project for my MSc in Data Science, Big Data course**
 
+<br>
 
 **Motivation**
 
