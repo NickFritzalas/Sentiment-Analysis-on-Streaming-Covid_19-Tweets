@@ -16,8 +16,9 @@ For example, depending on the news feed, the audiences’ attitude and sentiment
 This results into the need of analyzing this attitude-sentiment fluctuation. Such an analysis is useful
 in many ways. For instance, governments might be interested in the opinions, attitudes, and
 sentiments of the public, after the announcement of a relevant policy.
+<br>
 
-Project Objectives (Hypothesis)
+**Project Objectives (Hypothesis)**
 
 What is the general public consensus towards the pandemic and related news around the world.
 
