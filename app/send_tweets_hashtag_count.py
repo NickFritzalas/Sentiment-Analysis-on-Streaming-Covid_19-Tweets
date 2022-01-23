@@ -15,10 +15,10 @@ import socket
 import json
 
 # set the twitter API credentials
-consumer_key='XoR1QAkGcUsdhRcJ6yRw2jSfM'
-consumer_secret='jRIB9OBHjzUF7roMA6Eu3y8vuJQ9sOCgZPtFcAyuYQZRxwbBUy'
-access_token = '835776335381417984-xKyW6eTmYivSCsZ30XrtaPqQyG1lBis'
-access_secret='NEGX0ZfcFW6xBQ6xUgURFAEqSiZv2HGykNydcHqECItNV'
+consumer_key='your_key'
+consumer_secret='your_consumer'
+access_token = 'your_access_token'
+access_secret='your_access_secret'
 
 
 class TweetsListener(StreamListener):
