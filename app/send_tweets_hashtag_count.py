@@ -69,8 +69,3 @@ if __name__ == "__main__":
     print("Received request from: " + str(addr))
     # select here the keyword for the tweet data
     sendData(c_socket, keyword = ['covid'])
-
-
-
-
-
