@@ -53,7 +53,7 @@ What is the general public consensus towards the pandemic and related news aroun
 **In this project we have created the following**  
 1. A program that does sentiment analysis on a live stream of tweets based in the keyword **covid*** and storing the findings in a file
 2. A program that counts the most popular hashtags in the above tweeter stream and ploting the count in a real time dashboard
-3. A program that classifies the tweets as fake or real, based on a classifier taht we have pretrained with a tweeter dataset
+3. A program that classifies the tweets as fake or real, based on a classifier taht we have pretrained with a tweeter dataset  
 
 
 ### References  
