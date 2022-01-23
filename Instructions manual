@@ -1,0 +1,22 @@
+Within this repository you will find all the necessary noteboooks and scripts in order to reproduce our findings
+
+
+1. first you need to run the send_tweets_sentiment_analysis.ipynb notebook  
+2. then the spark_sentiment_analysis.ipynb notebook  
+
+Note here that the app will keep processing and creating parquet files even after you stop the spark_sentiment_analysis notebook as it takes some time to populate the files.
+
+At this point you will be receiving tweets that are being processed from Spark, producing a parquet file that contains the polarity and subjectivity for each tweet.  
+Do not shut down the send_tweets_sentiment notebook yet as you need it to keep sending tweets for the live dashboard at the next step.  
+If you want to use the dashboard without the sentiment analysis you can skip using the spark_sentiment_analysis notebook.  
+
+3. next you need to run the py scripts that are included in the app folder. Use Pycharm for this. The files must be within the app folder in order for the dashboard to work  
+
+Note that the dashboard takes some time to start producing the first results.
+
+At this point you have received or keep receiving a stram of tweets.
+If you wish to use the model we created for classififying the tweets as fake/real then you will need to run the files within the detection_real_fake_news folder.
+
+As a last step you need to run the tweets_analysis.ipynb notebook
+
+You are done!
