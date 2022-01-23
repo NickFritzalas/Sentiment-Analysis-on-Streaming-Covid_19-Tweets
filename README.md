@@ -8,6 +8,9 @@ Aris Terzidis and Nick Fritzalas
 
 <br>
 
+![img1](https://user-images.githubusercontent.com/72740595/150700030-5facc46a-fb92-4c28-acb4-efe04b0171bd.jpg)  
+
+
 ## Motivation  
 
 Covid-19 has risen various reactions and arguments regarding several aspects of the pandemic
@@ -58,7 +61,11 @@ What is the general public consensus towards the pandemic and related news aroun
 1.  A program that does sentiment analysis on a live stream of tweets based in the keyword **covid*** and storing the findings in a file
 2.  A program that counts the most popular hashtags in the above tweeter stream and ploting the count in a real time dashboard
 3.  A program that classifies the tweets as fake or real, based on a classifier that we have pretrained with a tweeter dataset  
-4.  Data analysis for our data
+4.  Data analysis for our data  
+
+<br>
+
+![img2](https://user-images.githubusercontent.com/72740595/150700093-c7929be6-c810-4888-a724-66a0345b4ffe.png)
 
 
 ## References  
