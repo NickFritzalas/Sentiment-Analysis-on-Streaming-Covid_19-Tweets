@@ -32,7 +32,7 @@ What is the general public consensus towards the pandemic and related news aroun
 ## Data Sources  
   - Twitter will be the data source - Streaming data
   - Text messages directly from Twitter’s feed with hashtags such as covid, coronavirus etc
-  - Covid-19 Tweets Dataset to pretrain a classifier
+  - Covid-19 Tweets Dataset to pretrain a classifier: https://competitions.codalab.org/competitions/26655#learn_the_details-overview
 
 ## Big Data Dimensions 
   - Volume – Thousands of tweets per minute
