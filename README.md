@@ -4,7 +4,7 @@
 
 
 ### Contributors  
-[Aris Terzidis](https://github.com/ArTeDS) and [Nick Fritzalas](https://github.com/NickFritzalas)
+[Aris Terzidis](https://github.com/ArTeDS) and [Nick Fritzalas](https://github.com/nfritz6)
 
 <br>
 
